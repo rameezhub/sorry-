@@ -1,0 +1,6 @@
+{
+  "name": "Sorry Saloni Didi",
+  "description": "A heartfelt, warm, and playful apology and belated birthday tribute website for Saloni Didi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
